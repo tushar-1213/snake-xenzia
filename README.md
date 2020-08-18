@@ -1,2 +1,2 @@
 # snake-xenzia
-its a snake game by pygame python module
+its a snake game in python using pygame module
